@@ -1,0 +1,2 @@
+# heartFailurePrediction
+https://www.kaggle.com/code/surajjha101/heart-failure-prediction-svm-and-ann/notebook
