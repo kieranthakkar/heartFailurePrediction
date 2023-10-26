@@ -1,2 +1,2 @@
 # heartFailurePrediction
-https://www.kaggle.com/code/surajjha101/heart-failure-prediction-svm-and-ann/notebook
+https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/data
